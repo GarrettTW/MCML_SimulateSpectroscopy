@@ -15,7 +15,7 @@ For comparison, a diffuse reflectance spectrum measured on the inside ofthe righ
 # Usage
 These file must be in same path with **run.py**</br>
 + wavelength.csv: all wavelength data for this program
-+ model_input.txt: ome parameters of the simulated tissue model
++ model_input.txt: some parameters of the simulated tissue model
 + mua_water.csv: the optical absorption properties (μ<sub>a</sub> cm<sup>-1</sup>) of water
 + mua_oxy.csv: the optical absorption properties (μ<sub>a</sub> cm<sup>-1</sup>) of oxygenated whole blood
 + mua_deoxy.csv: the optical absorption properties (μ<sub>a</sub> cm<sup>-1</sup>) of deoxygenated whole blood
