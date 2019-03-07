@@ -21,7 +21,7 @@ These file must be in same path with **run.py**</br>
 + mua_deoxy.csv: the optical absorption properties (μ<sub>a</sub> cm<sup>-1</sup>) of deoxygenated whole blood
 + mua_melanin.csv: the optical absorption properties (μ<sub>a</sub> cm<sup>-1</sup>) ofinterior of typical cutaneous melanosome</br>
 
-And these optical absorption properties are referred to https://omlc.org/software/mc/mcxyz/index.html
+And these optical absorption properties referred to https://omlc.org/software/mc/mcxyz/index.html
 - - -
 This code is a preset 8-multicore processing. If you have enough CPU cores, you must increase/revise the code.</br>
 You must revise [line731](https://github.com/GarrettTW/MCML_simulate-spectroscopy/blob/33d8c457c14ce4164e525d4fda282cfcbaf2abc0/run.py#L731) the **8** to **number of your CPU cores**
