@@ -1,0 +1,12 @@
+deltaZ 1e-4
+deltaR 5e-1
+NumberZ 8000
+NumberR 6
+LayerNumber 7
+LayerThickness1 20e-4
+LayerThickness2 80e-4
+LayerThickness3 150e-4
+LayerThickness4 80e-4
+LayerThickness5 1500e-4
+LayerThickness6 80e-4
+LayerThickness7 6000e-4
